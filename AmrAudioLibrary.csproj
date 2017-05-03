@@ -48,8 +48,8 @@
     <Compile Include="WaveWriter.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="bin\Debug\libopencore-amrnb-0.dll" />
-    <Content Include="bin\Debug\libopencore-amrwb-0.dll" />
+    <Content Include="lib\libopencore-amrnb-0.dll" />
+    <Content Include="lib\libopencore-amrwb-0.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
