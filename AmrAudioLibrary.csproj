@@ -7,7 +7,7 @@
     <ProjectGuid>{4F49162F-E2BE-4553-8C1A-34C854FA7A54}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AmrAudioLibrary</RootNamespace>
+    <RootNamespace>Doit.Media.Audio.Amr</RootNamespace>
     <AssemblyName>AmrAudioLibrary</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
